@@ -1,0 +1,6 @@
+C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\App.config
+C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe.config
+C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe
+C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.pdb
+C:\Apps\Published\WCF_WindowsManagedService\Service\obj\Debug\Service.exe
+C:\Apps\Published\WCF_WindowsManagedService\Service\obj\Debug\Service.pdb

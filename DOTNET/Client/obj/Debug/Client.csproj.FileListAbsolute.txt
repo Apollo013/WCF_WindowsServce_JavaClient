@@ -1,0 +1,5 @@
+C:\Apps\Published\WCF_WindowsManagedService\Client\bin\Debug\Client.exe.config
+C:\Apps\Published\WCF_WindowsManagedService\Client\bin\Debug\Client.exe
+C:\Apps\Published\WCF_WindowsManagedService\Client\bin\Debug\Client.pdb
+C:\Apps\Published\WCF_WindowsManagedService\Client\obj\Debug\Client.exe
+C:\Apps\Published\WCF_WindowsManagedService\Client\obj\Debug\Client.pdb

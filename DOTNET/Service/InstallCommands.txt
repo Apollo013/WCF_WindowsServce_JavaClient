@@ -1,0 +1,8 @@
+﻿net start WCFCalculatorService
+net stop WCFCalculatorService
+
+installutil "C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe"
+installutil /u "C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe"
+
+
+WCFCalculatorService

@@ -1,0 +1,58 @@
+﻿Installing assembly 'C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\service.exe
+   logfile = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\service.InstallLog
+Installing service WCFWindowsServiceSample...
+Service WCFWindowsServiceSample has been successfully installed.
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Committing assembly 'C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\service.exe
+   logfile = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\service.InstallLog
+Installing assembly 'C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe
+   logfile = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.InstallLog
+Installing service WCFWindowsServiceSample...
+Creating EventLog source WCFWindowsServiceSample in log Application...
+Rolling back assembly 'C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe
+   logfile = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.InstallLog
+Restoring event log to previous state for source WCFWindowsServiceSample.
+Uninstalling assembly 'C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe
+   logfile = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.InstallLog
+Removing EventLog source WCFCalculatorService.
+Warning: The source WCFCalculatorService is not registered on the local machine.
+Service WCFCalculatorService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe
+   logfile = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.InstallLog
+Removing EventLog source WCFWindowsServiceSample.
+Service WCFWindowsServiceSample is being removed from the system...
+Service WCFWindowsServiceSample was successfully removed from the system.
+Installing assembly 'C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe
+   logfile = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.InstallLog
+Installing service WCFCalculatorService...
+Service WCFCalculatorService has been successfully installed.
+Creating EventLog source WCFCalculatorService in log Application...
+Committing assembly 'C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.exe
+   logfile = C:\Apps\Published\WCF_WindowsManagedService\Service\bin\Debug\Service.InstallLog
