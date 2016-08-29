@@ -17,6 +17,25 @@ Built using VS 2015 Community & Eclipse
 
 ---
 
+###Installation
+
+
+####Installation Resources
+|Title|Author|Website/Publisher|
+|-----|------|-----------------|
+|[Metro 2.3.1 Installation](https://metro.java.net/2.3.1/)| | Glassfish |
+|[How to install Apache Ant on Windows](https://www.mkyong.com/ant/how-to-install-apache-ant-on-windows/)| mkyong| mkyong.com |
+
+####Installation Console Commands
+|Command|Description|
+|-------|-----------|
+| cd C:\Windows\Microsoft.NET\Framework64\v4.0.30319 | Switches to folder where service can be installed |
+|installutil "[YOUR_FOLDER]\WCF_WindowsManagedService\Service\bin\Debug\Service.exe"| Installs the service |
+|installutil /u "[YOUR_FOLDER]\WCF_WindowsManagedService\Service\bin\Debug\Service.exe"| Uninstalls the service |
+|net start WCFCalculatorService| Starts the service|
+|net stop WCFCalculatorService| Stops the service |
+
+---
 
 ###Resources
 |Title|Author|Website/Publisher|
