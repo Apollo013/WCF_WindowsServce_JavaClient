@@ -4,7 +4,7 @@ using System.ServiceProcess;
 
 namespace Apollo.ServiceModel.Sample
 {
-    // Provide the ProjectInstaller class which allows 
+    // ProjectInstaller class which allows 
     // the service to be installed by the Installutil.exe tool
     [RunInstaller(true)]
     public class ProjectInstaller : Installer
